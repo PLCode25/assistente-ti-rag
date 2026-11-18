@@ -12,6 +12,9 @@ class Settings(BaseSettings):
     environment: str = "development"
     cors_origins: list[str] = ["http://localhost:5173"]
 
+    chunk_size: int = 800
+    chunk_overlap: int = 150
+
 
 @lru_cache
 def get_settings() -> Settings:

@@ -1,0 +1,13 @@
+Impressoras corporativas - Perguntas frequentes
+
+Como adicionar uma impressora?
+No Windows, abra Configurações > Bluetooth e dispositivos > Impressoras e scanners e clique em "Adicionar dispositivo". As impressoras da empresa seguem o padrão de nome IMP-ANDAR-NUMERO, por exemplo IMP-3A-02 para o 3º andar.
+
+A impressão fica parada na fila. O que fazer?
+Cancele todos os documentos da fila, desligue a impressora por 30 segundos e envie novamente. Se a fila não limpar, reinicie o serviço "Spooler de Impressão" ou reinicie o computador.
+
+Como usar a impressão segura?
+Documentos enviados para a fila "IMP-SEGURA" só são impressos quando você aproxima o crachá do leitor da impressora. Documentos não liberados são apagados após 24 horas.
+
+A impressora está sem toner ou com papel atolado.
+Não tente abrir partes internas além das indicadas no painel. Abra um chamado na categoria "Impressoras" informando o nome da impressora e a mensagem exibida no painel.
