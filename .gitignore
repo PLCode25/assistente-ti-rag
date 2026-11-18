@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.pytest_cache/
+.ruff_cache/
+
+# Ambiente
+.env
+
+# Dados gerados (ChromaDB)
+backend/data/
+
+# Front-end
+node_modules/
+dist/
+
+# Editor / SO
+.vscode/
+.idea/
+.DS_Store
